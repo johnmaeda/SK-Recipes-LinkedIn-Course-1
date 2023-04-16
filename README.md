@@ -1,6 +1,6 @@
-# Experimental: Uncle John's Semantic Kernel Recipes
+# Semantic Kernel LinkedIn Course Materials By John Maeda
 
-There's now a free LinkedIn Learning course on Semantic Kernel available [here](https://aka.ms/sk/li/introducing-semantic-kernel).
+There's now a free LinkedIn Learning course on Semantic Kernel available [here](https://aka.ms/sk/li/introducing-semantic-kernel). And the accompanying course to this repo is [here](https://aka.ms/sk/li/introducing-semantic-kernel).
 ---
 
 ## 📺 Available SK Recipes
