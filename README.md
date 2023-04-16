@@ -7,14 +7,14 @@ There's now a free LinkedIn Learning course on Semantic Kernel available [here](
 
 This repo is a collection of `.ipynb` (aka "Jupyter notebook") files to be run locally from VS Code. They are organized as a set of "recipes" to learn how to use Semantic Kernel.
 
-* ⏲️ [The Kitchen](e1-kitchen-entrance/notebook.ipynb)
-* 🍽️ [First Dish](e2-first-dish/notebook.ipynb)
-* 🧂 [Skills Rack](e3-skills-rack/notebook.ipynb)
-* 🥑 [Memories Maximized](e4-memories/notebook.ipynb)
-* 🍋 [Connectors w/ Bing](e5-connectors/notebook.ipynb)
-* 🔥 [Kernel Chain Reactions](e6-design-chain/notebook.ipynb)
+* ⏲️ [The Kitchen](s1e0-trailer/notebook.ipynb)
+* 🔥 [First Kernel](s1e1-kernel/notebook.ipynb)
+* 🧂 [Skills Rack](s1e2-skills/notebook.ipynb)
 * 💬 [MiniChatGPT Clone](e7-bonus-chat/notebook.ipynb)
 * 🕵️ [Prompt Secrets](e8-bonus-prompts/notebook.ipynb)
+* 🖇️ [Kernel Chain Reactions](e6-design-chain/notebook.ipynb)
+* 🥑 [Memories Maximized](s1e6-memories/notebook.ipynb)
+* 🍋 [Connectors w/ Bing](s1e7-connectors/notebook.ipynb)
 
 ---
 
