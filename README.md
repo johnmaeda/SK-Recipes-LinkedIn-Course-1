@@ -10,9 +10,9 @@ This repo is a collection of `.ipynb` (aka "Jupyter notebook") files to be run l
 * ⏲️ [The Kitchen](s1e0-trailer/notebook.ipynb)
 * 🔥 [First Kernel](s1e1-kernel/notebook.ipynb)
 * 🧂 [Skills Rack](s1e2-skills/notebook.ipynb)
-* 💬 [MiniChatGPT Clone](e7-bonus-chat/notebook.ipynb)
-* 🕵️ [Prompt Secrets](e8-bonus-prompts/notebook.ipynb)
-* 🖇️ [Kernel Chain Reactions](e6-design-chain/notebook.ipynb)
+* 💬 [MiniChatGPT Clone](s1e3-chat/notebook.ipynb)
+* 🕵️ [Prompt Secrets](s1e4-secrets/notebook.ipynb)
+* 🖇️ [Kernel Chain Reactions](s1e5-chains/notebook.ipynb)
 * 🥑 [Memories Maximized](s1e6-memories/notebook.ipynb)
 * 🍋 [Connectors w/ Bing](s1e7-connectors/notebook.ipynb)
 
