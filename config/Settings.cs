@@ -92,12 +92,14 @@ public static class Settings
         {
             if (useAzureOpenAI)
             {
-                apiKey = await InteractiveKernel.GetPasswordAsync("Please enter your Azure OpenAI API key");
+                var passwordString = await InteractiveKernel.GetPasswordAsync("Please enter your Azure OpenAI API key");
+                apiKey = passwordString.ToString();
                 orgId = "";
             }
             else
             {
-                apiKey = await InteractiveKernel.GetPasswordAsync("Please enter your OpenAI API key");
+                var passwordString = await InteractiveKernel.GetPasswordAsync("Please enter your OpenAI API key");
+                apiKey = passwordString.ToString();
             }
         }
 
